@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # services-web-template
 >>>>>>> 3a5f64fd432ee4795cb3b50fc8662bc68fbbdb8d
+=======
+# fluffy-dollop
+Web Services Template
+>>>>>>> origin/main
